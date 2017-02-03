@@ -15,7 +15,7 @@ import pandas as pd
 import numpy as np
 import locale
 from pprint import pprint
-from com.subex.social.metric.TemporalTweet import TemporalTweet
+from com.binu.social.metric.TemporalTweet import TemporalTweet
 
 locale.setlocale(locale.LC_NUMERIC, '')
 class TweetBox(object):

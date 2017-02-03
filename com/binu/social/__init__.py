@@ -1,5 +1,5 @@
 import pandas as pd
-from com.subex.social.metric.EnrichedTweet import TweetBox
+from com.binu.social.metric.EnrichedTweet import TweetBox
 import numpy as np
 
 if __name__ == '__main__':
